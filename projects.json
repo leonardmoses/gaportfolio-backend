@@ -1,14 +1,14 @@
 [
+  {
+    "name": "Marvel Character Comparator",
+    "live": "https://marvel-character-comparator.vercel.app/",
+    "git": "https://github.com/leonardmoses/marvel_character_comparator",
+    "image": "https://i.imgur.com/uUkExVS.png"
+  },
     {
-      "name": "body_movement",
+      "name": "Body Movement",
       "live": "https://lennie-project2.herokuapp.com/",
       "git": "https://github.com/leonardmoses/body_movement",
-      "image": "http://www.imgur.com/pictureofproject.png"
-    },
-    {
-      "name": "marvel_character_comparator",
-      "live": "https://marvel-character-comparator.vercel.app/",
-      "git": "https://github.com/leonardmoses/marvel_character_comparator",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "image": "https://i.imgur.com/8WIdyIf.png"
     }
   ]
