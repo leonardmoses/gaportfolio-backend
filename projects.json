@@ -5,10 +5,22 @@
     "git": "https://github.com/leonardmoses/marvel_character_comparator",
     "image": "https://i.imgur.com/uUkExVS.png"
   },
-    {
-      "name": "Body Movement",
-      "live": "https://lennie-project2.herokuapp.com/",
-      "git": "https://github.com/leonardmoses/body_movement",
-      "image": "https://i.imgur.com/8WIdyIf.png"
-    }
-  ]
+  {
+    "name": "Body Movement",
+    "live": "https://lennie-project2.herokuapp.com/",
+    "git": "https://github.com/leonardmoses/body_movement",
+    "image": "https://i.imgur.com/8WIdyIf.png"
+  },
+  {
+    "name": "Contrivia",
+    "live": "https://contrivia.netlify.app/category",
+    "git": "https://github.com/leonardmoses/contrivia-frontend",
+    "image": "https://imgur.com/MhDaVA6"
+  },
+  {
+    "name": "Match It",
+    "live": "https://match-it-eight.vercel.app/",
+    "git": "https://github.com/leonardmoses/MatchIt",
+    "image": "https://imgur.com/Vsaeolf"
+  }
+]
