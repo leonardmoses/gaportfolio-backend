@@ -13,14 +13,14 @@
   },
   {
     "name": "Contrivia",
-    "live": "https://contrivia.netlify.app/category",
+    "live": "https://contrivia.netlify.app/",
     "git": "https://github.com/leonardmoses/contrivia-frontend",
-    "image": "https://imgur.com/MhDaVA6"
+    "image": "https://imgur.com/MhDaVA6.png"
   },
   {
     "name": "Match It",
     "live": "https://match-it-eight.vercel.app/",
     "git": "https://github.com/leonardmoses/MatchIt",
-    "image": "https://imgur.com/Vsaeolf"
+    "image": "https://imgur.com/Vsaeolf.png"
   }
 ]
