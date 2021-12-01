@@ -1,0 +1,15 @@
+[
+    {
+      "name": "Leonard Moses",
+      "email": "leonard@leonardmoses.com",
+      "phone": "240-492-8550",
+      "website": "leonard@leonardmoses.com",
+      "git": "https://github.com/leonardmoses/",
+      "linkedIn": "https://www.linkedin.com/in/leonard-moses/",
+      "brand": "Passionate Software Engineer and determined learner with a belief that anything can be achieved, no matter how complex. We come into this world with zero information and we learn everything despite starting with a blank slate. This is the essence of what we do – solve problems even without prior knowledge.  Driven by curiosity and a love of creating solutions, eager to contribute to a collaborative development team.",
+      "headshot": "https://i.imgur.com/ld5Sq9O.jpg",
+      "resumelink": "https://docs.google.com/document/d/1MbZ-WN7e9nSqv_cb09T3UkCnk7qIt9VN/edit",
+      "resumejpeg": "https://i.imgur.com/u2eh5lR.jpg",
+      "resumepdf": "./public/pdfs/Moses_Resume.pdf"
+    }
+  ]

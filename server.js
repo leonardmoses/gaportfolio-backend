@@ -8,6 +8,7 @@ const cors = require("cors");
 // =======================================
 const projects = require("./projects.json");
 const about = require("./about.json");
+const resume = require("./resume.json");
 // =======================================
 //              APP OBJECT
 // =======================================
@@ -33,6 +34,7 @@ app.get("/about", (req, res) => {
     // send projects via JSON
     res.json(about);
 });
+
 
 // NEW (get)
 // DESTROY (delete)
