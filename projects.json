@@ -1,5 +1,11 @@
 [
   {
+    "name": "Calendar App",
+    "live": "https://vercel.com/leonardmoses/see-care-cal-1-1/",
+    "git": "https://github.com/leonardmoses/ct-eyeCare-calendar-1.1",
+    "image": "https://imgur.com/a/NbwWJVE.png"
+  },
+  {
     "name": "Marvel Character Comparator",
     "live": "https://marvel-character-comparator.vercel.app/",
     "git": "https://github.com/leonardmoses/marvel_character_comparator",
